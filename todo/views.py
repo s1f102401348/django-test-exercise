@@ -43,7 +43,7 @@ def delete(request, task_id):
     task.delete()
     return redirect(index)
 
-def updete(request, task_id):
+def update(request, task_id):
     try:
         task = Task.objects.get(pk=task_id)
     except Task.DoesNotExist:
