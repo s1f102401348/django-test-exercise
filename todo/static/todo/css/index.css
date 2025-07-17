@@ -1,0 +1,27 @@
+/* static/css/style.css */
+
+body {
+ 
+  background-color: #f0f8ff;
+
+}
+
+h1 {
+  color: #2c3e50;
+}
+
+form {
+  background-color: #ffffff;
+
+}
+
+button {
+  background-color: #3498db;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+
+
