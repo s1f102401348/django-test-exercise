@@ -1,8 +1,9 @@
-/* static/css/style.css */
+
 
 body {
  
   background-color: #f0f8ff;
+  color: #333;
 
 }
 
@@ -15,13 +16,24 @@ form {
 
 }
 
+label {
+  color: #555;
+}
+
 button {
   background-color: #3498db;
+  color: white;
 }
 
 button:hover {
   background-color: #2980b9;
 }
 
+.text {
+  background-color: #ffffff;
+}
 
+a {
+  color: #2e86c1;
+}
 
